@@ -37,6 +37,8 @@ On API Public Access, click on Create new Key
 Select Browser Key option. For your security, insert a list of urls that can use your Key. With this, if anybody try use your key on different URL get a error. 
 Click on create, copy the API Key code showed and paste on Google API Key field, on wordpress admin.
 
+You can see this steps on a video tutorial, on this link: http://dev.feijaocosta.com.br/tutoriais/como-criar-uma-chave-publica-de-acesso-a-api-do-youtube/
+
 If you have any trouble with this process, access our site and write a commentary on plugin page: http://dev.feijaocosta.com.br/youtube-new-generation
 
 == Frequently Asked Questions ==
