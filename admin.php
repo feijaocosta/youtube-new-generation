@@ -50,6 +50,7 @@
 			<hr />
 			
 			<h3>Como criar a API Key?</h3>
+			(Você pode também ver um video tutorial <a href="http://dev.feijaocosta.com.br/tutoriais/como-criar-uma-chave-publica-de-acesso-a-api-do-youtube/">clicando aqui!</a>)
 			<ul>
 				<li>1. Acesse o <a href="https://console.developers.google.com/project">Console Developers</a> do Google;</li>
 				<li>2. Faça login com uma conta google (pode ser o mesmo usuário que você utiliza pra subir os vídeos)</li>
@@ -63,6 +64,7 @@
 				<li>10. Seleciona a opção <b>Chave do Navegador</b>. Nesse ponto você poderá informar a URL do seu site, pra garantir que não usarão sua chave em outro endereço. Isso é importante, porque existe um limite de requisições que cada chave pode fazer</li>
 				<li>11. Ao clicar em criar, ele vai apresentar pra você a sua chave. Copie ela e cole no campo Google API Key do formulário acima;</li>
 			</ul>
+			
 	
 	</body>
 </html>
